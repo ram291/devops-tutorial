@@ -1,2 +1,2 @@
-# devops-tutorial
-sample devops tutorial
+# devops-tutoriaL 
+THIS IS THE FIRST COMMIT FOR THE DEVOPS TUTORIAL VIDEO
